@@ -1,0 +1,34 @@
+{
+    "services": [
+        {
+            "image": "/btcTrans.png",
+            "title": "Bitcoin Transection"
+        },
+        {
+            "image": "/btcExch.png",
+            "title": "Bitcoin Exchange"
+        },
+        {
+            "image": "/btcMining.png",
+            "title": "Bitcoin Mining"
+        }
+    ],
+    "howIW":[
+        {
+            "image": "/payment.png",
+            "title": "Make Payments",
+            "description": "You can make payments using Bitcoin"
+        },
+        {
+            "image": "/wallet.svg",
+            "title": "create your wallet",
+            "description": "You can create your wallet using Bitcoin"
+        },
+        {
+            "image": "/btcCoin.png",
+            "title": "buy or sell orders",
+            "description": "You can buy or sell orders using Bitcoin"
+        }
+        
+    ]
+}
